@@ -1,13 +1,16 @@
 # Project 2 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Qihan Guan (123456789)
+Student 2: Zachary Wilson (123456798)
 
 ## Project Status
-This the current status of the project ...
+Finished part 1. Part 2 is almost finished, part 3 started.
 
 ## Known Issues
-The project fails to function properly in ...
+
+part 2:
+The second button press doesn't get ignored during the cycle(before V set to 0)
+
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
