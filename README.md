@@ -1,20 +1,23 @@
 # Project 2 README
 
-Student 1: Qihan Guan (123456789)
-Student 2: Zachary Wilson (123456798)
+Student 1: Qihan Guan (922758317)
+Student 2: Zachary Wilson (922725803)
 
 ## Project Status
-Finished part 1. Part 2 is almost finished, part 3 started.
+Finished part 1. Part 2 by my partner, and we work on part 3 toegether.
+
 
 ## Known Issues
 
-part 2:
-The second button press doesn't get ignored during the cycle(before V set to 0)
+* Boolean Algebra calculator: https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/ 
+* Wolfram Alpha for simplifying boolean and truth table.
+* Geekforgeek 7 segment display https://www.geeksforgeeks.org/seven-segment-displays/
 
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
 * [Some other link](https://stackoverflow.com)
+
 
 ## Generative AI Use
 I used ChatGPT for Prompt 1, and ZZZZZ for Prompt 2....
